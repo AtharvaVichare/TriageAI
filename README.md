@@ -3,11 +3,10 @@
 ![TriageAI Screenshot](https://github.com/AtharvaVichare/TriageAI/blob/main/Capture.PNG)
 
 
-![TriageAI Screenshot](https://github.com/AtharvaVichare/TriageAI/blob/main/Capture1.PNG)
-
 
 **TriageAI** is a full-stack, AI-powered decision support tool designed to assist medical professionals in rapidly and accurately assessing patient severity in emergency settings. The application leverages a deep learning model to predict the Emergency Severity Index (ESI) based on patient data, combined with a clinical safety net to ensure patient safety for critical conditions.
 
+![TriageAI Screenshot](https://github.com/AtharvaVichare/TriageAI/blob/main/Capture1.PNG)
 ---
 
 ## Features
